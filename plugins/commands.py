@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/Zinan100pbot")
+                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/rrmovie0987")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -41,8 +41,8 @@ async def start(client, message):
         buttons =  [[
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ yᴏᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴩ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/fschats'),
-            InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/Zinan100pbot')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/CHEKUTHANUPADTE'),
+            InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/rrmovie0987')
             ],[      
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about') 
@@ -82,8 +82,8 @@ async def start(client, message):
         buttons =  [[
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ yᴏᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴩ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/fschats'),
-            InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/Zinan100pbot')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/CHEKUTHANUPADTE'),
+            InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/rrmovie0987')
             ],[      
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about') 
